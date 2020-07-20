@@ -2,7 +2,7 @@
 
 A guitar simulator that lets you to record and play songs.
 
-[Author: Bill Zhao](www.iambillzhao.com)
+[Author: Bill Zhao](https://www.iambillzhao.com/)
 
 ## Usage and Dependency
 
